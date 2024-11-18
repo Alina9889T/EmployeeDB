@@ -1,4 +1,4 @@
-# EmployeesDB Console application
+# EmployeeDB Console application
 ## Uses Entity Framework and MS SQL Server
 
 ---------
